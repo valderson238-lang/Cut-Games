@@ -1,0 +1,6 @@
+{
+  "name": "Cut Games",
+  "description": "Loja especializada em consoles novos e seminovos revisados, controles, jogos e acessórios desde 2016.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
